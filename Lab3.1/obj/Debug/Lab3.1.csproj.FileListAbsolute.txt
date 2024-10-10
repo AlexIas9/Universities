@@ -1,0 +1,30 @@
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Database1.mdf
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Database1_log.ldf
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Lab3.1.exe.config
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Lab3.1.exe
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Lab3.1.pdb
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.csproj.AssemblyReference.cache
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form1.resources
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form2.resources
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form3.resources
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Properties.Resources.resources
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.csproj.GenerateResource.cache
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.csproj.CoreCompileInputs.cache
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.exe
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.pdb
+C:\Users\Niculai Ilie-Traian\Documents\II\Laboratoare\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form4.resources
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Database1.mdf
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Database1_log.ldf
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Lab3.1.exe.config
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Lab3.1.exe
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\bin\Debug\Lab3.1.pdb
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.csproj.AssemblyReference.cache
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form1.resources
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form2.resources
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form3.resources
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Form4.resources
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3._1.Properties.Resources.resources
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.csproj.GenerateResource.cache
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.csproj.CoreCompileInputs.cache
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.exe
+C:\Users\ias_a\OneDrive\Desktop\Facultate\Anul 3\Semestrul 2\II\Laborator 3\Laborator 3\Lab3.1\Lab3.1\obj\Debug\Lab3.1.pdb
